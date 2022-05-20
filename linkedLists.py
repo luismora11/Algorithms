@@ -1,5 +1,6 @@
 #Building a linked list
 
+#Creating a class to model our objects
 class Node:
     def __init__(self, data):
         self.data = data
