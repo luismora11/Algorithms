@@ -1,0 +1,25 @@
+#This is psudo code
+
+
+
+def decipher(input):
+    create output string
+    for each letter in input:
+        get new letters in letter locations in cipher 
+        add new letter to output 
+    return output
+
+
+
+O(3n + 2)
+
+if n = 10
+
+3(10)+2
+
+the result is equals to 32
+
+
+
+
+
