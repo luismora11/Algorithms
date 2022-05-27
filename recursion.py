@@ -25,7 +25,7 @@ print(get_iterative_factorial(6))
 
 
 
-#Example number 2
+#Example number 2 does not print anything 
 
 """Implement a function recursively to get the desired
 Fibonacci sequence value.
@@ -46,3 +46,7 @@ def get_fib(position):
 
 
 
+# Test cases
+print(get_fib(9))
+print(get_fib(11))
+print(get_fib(0))
