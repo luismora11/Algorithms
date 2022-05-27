@@ -23,3 +23,26 @@ def get_iterative_factorial(n):
 print(get_recursive_factorial(6))
 print(get_iterative_factorial(6))
 
+
+
+#Example number 2
+
+"""Implement a function recursively to get the desired
+Fibonacci sequence value.
+Your code should have the same input/output as the 
+iterative code in the instructions."""
+
+def get_fib(position):
+    if position == 0 or position == 1:
+        return position
+    
+    return get_fib(position - 1) + get_fib(position - 2)
+
+    
+    
+    
+    
+    return -1
+
+
+
