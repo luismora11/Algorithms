@@ -25,3 +25,6 @@ def partition(arr, l, r):
 print(quicksort(arr))
 
 
+
+
+
